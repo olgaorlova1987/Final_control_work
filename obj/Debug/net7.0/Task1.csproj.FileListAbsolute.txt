@@ -1,0 +1,15 @@
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\olgao\Desktop\Gik Breins\Final_Control_Work\Task1\obj\Debug\net7.0\ref\Task1.dll
